@@ -1,2 +1,2 @@
 # TIL(Today I Learned)
-공부해야지...
+공부해야지...!
