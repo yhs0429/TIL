@@ -54,7 +54,7 @@
    - 관리가 쉽다.
    - 지원 가능한 플랫폼과 프로그램이 다양하다.
 
-  		2. 단점
+    		2. 단점
        - 표준이 없어 사용자마다 문법이 상이할 수 있다.
        - 모든 HTML 마크업 기능을 대신하지는 못한다.
 
@@ -125,7 +125,7 @@ Just plain text
 
 ~~~
 
-![Untitled (1)](C:\Users\TEST\Desktop\TIL\Untitled (1).png)
+![Untitled (1)](C:\Users\TEST\Desktop\Github\TIL\png\Untitled (1).png)
 
 
 

@@ -16,11 +16,11 @@ git 정리
 
 **※설치할때 Git 경로를 변경하지 않는다 !**
 
-![](C:\Users\TEST\Desktop\git7.png)
+![git7](C:\Users\TEST\Desktop\Github\TIL\png\git7.png)
 
-![git13](C:\Users\TEST\Desktop\git13.png)
+![git13](C:\Users\TEST\Desktop\Github\TIL\png\git13.png)
 
-![git15](C:\Users\TEST\Desktop\git15.png)
+![git15](C:\Users\TEST\Desktop\Github\TIL\png\git15.png)
 
 제외하고 나머진 next로 넘어간다.
 
@@ -59,7 +59,6 @@ git 정리
   
   폴더가 디렉토리보다 넓은 개념이라고 할 수 있다.
   
-
 - 절대 경로와 상대 경로
 
   - 절대 경로 : 루트 디렉토리로부터 목적 지점까지 거치는 모든 경로를 작성한 것
