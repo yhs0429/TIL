@@ -97,7 +97,7 @@ nothing to commit (create/copy files and use "git add" to track)
 
      c. Staged : Staging Area에 올라간 상태![Untitled](C:\Users\TEST\Desktop\Github\TIL\png\Untitled.png)
 
-### (3)git add
+## (3)git add
 
 ```#특정 파일```
 
@@ -163,7 +163,7 @@ $git add.
 
 
 
-### (4)git commit
+## (4)git commit
 
 ```$ git commit -m '커밋해'
 [master (root-commit) a703f39] 커밋해
@@ -172,13 +172,16 @@ $git add.
 ```
 
 - Staging Area에 올라온 파일의 변경사항을 하나의 버전(커밋)으로 저장하는 명령어
+
 - 커밋메세지는 변경사항을 잘 나타낼수있도록 작성한다
+
 - 각각의 커밋은 고유의 해시 값을 ID로 갖는다
+
 - root-commit 은 해당 커밋의 최초에만 뜬다
 
+  
 
-
-### (5)git log
+## (5)git log
 
 ``` 
 $ git log
@@ -190,14 +193,22 @@ Date:   Tue Apr 12 22:36:03 2022 +0900
 ```
 
 - 커밋의 내역(```ID, 작성자, 시간, 메세지 등```)을 조회할 수 있는 명령어
+
 - 옵션
   - ```--oneline``` : 한줄로 축약해서 보여준다
+  
   - ```--graph```: 브랜치와 머지내역을 그래프로 보여준다
+  
   - ```--all``` : 현재 브런치를 포함한 모든 브랜치의 내역을 보여준다
+  
   - ```--reverse``` : 커밋 내역의 순서를 반대로 보여준다 (최신이 가장 아래)
+  
   - ```-p``` : 파일의 변경 내용도 같이 보여준다
+  
   - ```-숫자``` : 원하는 갯수만큼의 내역을 보여준다 
+  
+    
 
-### (6)한눈에 보는 Git 명령어
+## (6)한눈에 보는 Git 명령어
 
-![Untitled (3)](C:\Users\TEST\Desktop\Github\TIL\png\Untitled (3).png)
+![git 명령어](C:\Users\TEST\Desktop\Github\TIL\png\git 명령어.png)
