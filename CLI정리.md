@@ -16,11 +16,11 @@ git 정리
 
 **※설치할때 Git 경로를 변경하지 않는다 !**
 
-![git7](C:\Users\TEST\Desktop\Github\TIL\png\git7.png)
+![사진](C:\Users\TEST\Desktop\Github\TIL\png\git7.png)
 
-![git13](C:\Users\TEST\Desktop\Github\TIL\png\git13.png)
+![사진2](C:\Users\TEST\Desktop\Github\TIL\png\git13.png)
 
-![git15](C:\Users\TEST\Desktop\Github\TIL\png\git15.png)
+![사진2](C:\Users\TEST\Desktop\Github\TIL\png\git15.png)
 
 제외하고 나머진 next로 넘어간다.
 
