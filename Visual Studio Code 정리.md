@@ -10,7 +10,6 @@
 
 ### 1.Visual Studio Code
 
-- 윈도우 설치 [](https://code.visualstudio.com/docs/?dv=win)
 - Visual Studio Code 를 쓰는 이유
   - Vscode는 MS에서 개발한 코드 에디터의 한 종류
   - Windows,Mac,Linux 모두 지원
@@ -24,8 +23,10 @@
 
 - Extensions란?
   - 익스텐션 이란 기본 기능에서 확장하여 추가적인 기능을 가능하게 하는 일종의 플러그인
+  
   - vscode > 좌측메뉴바 > 블럭모양 아이콘 을 통해 익스텐션 창을 열 수 있다
-  - 
+  
+    
 
 <aside> 💡 **처음부터 모든 기능을 갖추면 되지, 왜 익스텐션을 쓰나요?**
 

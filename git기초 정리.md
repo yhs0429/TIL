@@ -22,31 +22,21 @@
 
 ## [1]Git 초기 설정
 
-### Git 설치가이드
-
-[링크](https://git-scm.com/) < 접속
-
-**설치할때 Git 경로를 변경하지 않는다 !**
-
-설치 완료 후 터미널에서 **git --version** 입력하여 설치된 git 버전 정보 확인 
-
-### 초기 설정
-
 - 최초 한번만 설정 
 
-  - 누가 커밋 기록을 남겼는지 확인할수있도록 이메일,이름 설정
+- 누가 커밋 기록을 남겼는지 확인할수있도록 이메일,이름 설정
 
-    $git config --global user.name "이름"
+  $git config --global user.name "이름"
 
-    $git config --global user.email "메일이름"
+  $git config --global user.email "메일이름"
 
-  - 작성자 수정 할땐 이름,메일 주소만 다르게 하여 동일하게 입력
+- 작성자 수정 할땐 이름,메일 주소만 다르게 하여 동일하게 입력
 
 ## [2]Git 기본 명령어
 
 ### (0)로컬 저장소
 
-![Untitled](C:\Users\TEST\Desktop\Github\TIL\png\Untitled.png)
+![git 로컬저장](C:\Users\TEST\Desktop\Github\TIL\png\git 로컬저장.png)
 
 - Git은 Working Directory → Staging Area → Repository 과정으로 버전 관리를 수행
 - Working Directory (= Working Tree) : 사용자의 일반적인 작업이 일어나는 곳
@@ -56,9 +46,6 @@
 ## (1)git init
 
 $ git init
-Initialized empty Git repository in C:/Users/TEST/Desktop/git init/.git/
-
-1@sunny MINGW64 ~/Desktop/git init (master)
 
 - 현재 작업중인 디렉토리를 Git으로 관리한다는 명령어
 - .git 이라는 숨긴 폴더를 생성 , 터미널에는 (master = main) 라고 표기 
@@ -71,15 +58,6 @@ Initialized empty Git repository in C:/Users/TEST/Desktop/git init/.git/
 ```
 
 ## (2)git status
-
-$ git status
-On branch master
-
-No commits yet
-
-nothing to commit (create/copy files and use "git add" to track)
-
-1@sunny MINGW64 ~/Desktop/git init (master)
 
 - Working Directory와 Staging Area에 있는 파일의 현재 상태를 알려주는 명령어
 
@@ -95,7 +73,9 @@ nothing to commit (create/copy files and use "git add" to track)
 
      b. Modified : 수정되었지만 아직 Staging Area에는 반영하지 않은 상태
 
-     c. Staged : Staging Area에 올라간 상태![Untitled](C:\Users\TEST\Desktop\Github\TIL\png\Untitled.png)
+     c. Staged : Staging Area에 올라간 상태
+     
+     ![git status](C:\Users\TEST\Desktop\Github\TIL\png\git status.png)
 
 ## (3)git add
 
@@ -139,8 +119,6 @@ $git add.
   
   nothing added to commit but untracked files present (use "git add" to track)
   ```
-
-  
 
   ------
 
