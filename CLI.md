@@ -1,4 +1,4 @@
-# CLI 정리
+# CLI
 
 1. GUI와 CLI의 정의
 2. Git Bash를 사용하는 이유

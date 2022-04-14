@@ -51,10 +51,9 @@ $ git init
 - .git 이라는 숨긴 폴더를 생성 , 터미널에는 (master = main) 라고 표기 
 
 ```!주의사항
-!주의 사항
-1. 이미 git 저장소인 폴더 내에 또 다른 Git 저장소를 만들지 않는다 (중첩금지)
-   터미널에 master가 있다면 git init을 절대 입력하지말것
-2.절대로 홈 디렉토리에서 git init 을 하지 않는다. 터미널의 경로가 ~ 인지 확인 필수!!
+📌주의 사항
+1. 중첩금지! 터미널에 master가 있다면 git init을 절대 입력하지말것
+2. 절대로 홈 디렉토리에서 git init 을 하지 않는다. 터미널의 경로가 ~ 인지 확인 필수!!
 ```
 
 ## (2)git status
@@ -189,4 +188,4 @@ Date:   Tue Apr 12 22:36:03 2022 +0900
 
 ## (6)한눈에 보는 Git 명령어
 
-![git 명령어](C:\Users\TEST\Desktop\Github\TIL\png\git 명령어.png)
+![git 명령어](https://github.com/yhs0429/TIL/blob/master/png/git%20%EB%AA%85%EB%A0%B9%EC%96%B4.png)
