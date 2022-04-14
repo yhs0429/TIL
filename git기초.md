@@ -36,7 +36,7 @@
 
 ### (0)로컬 저장소
 
-![git 로컬저장](C:\Users\TEST\Desktop\Github\TIL\png\git 로컬저장.png)
+![git 로컬저장](https://github.com/yhs0429/TIL/blob/master/png/git%20%EB%A1%9C%EC%BB%AC%EC%A0%80%EC%9E%A5.png)
 
 - Git은 Working Directory → Staging Area → Repository 과정으로 버전 관리를 수행
 - Working Directory (= Working Tree) : 사용자의 일반적인 작업이 일어나는 곳
@@ -74,7 +74,7 @@ $ git init
 
      c. Staged : Staging Area에 올라간 상태
      
-     ![git status](C:\Users\TEST\Desktop\Github\TIL\png\git status.png)
+     ![git status](https://github.com/yhs0429/TIL/blob/master/png/git%20status.png)
 
 ## (3)git add
 
